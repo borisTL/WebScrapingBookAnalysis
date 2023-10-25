@@ -1,4 +1,4 @@
-# WebScrapingBookAnalysis
+# Web Scraping Book Analysis
 
 A web scraping tool and data analysis pipeline for extracting and assessing literary genres and book details from an online bookstore.
 
